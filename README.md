@@ -675,13 +675,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#. 
 
-## Markdown Processors
-
-* [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
-* [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
-* [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
-* [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
-
 ## Mail
 
 * [FluentEmail](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
@@ -689,6 +682,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+
+## Markdown Processors
+
+* [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
+* [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
+* [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+* [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 
 ## Mathematics
 
@@ -776,10 +776,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Object to object mapping
 
-* [AgileMapper](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
-* [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
+* [AgileMapper](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0.
+* [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org.
 * [ExpressMapper](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
-* [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net 
+* [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .NET.
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .NET.
 
 ## Office
@@ -827,6 +827,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [NuGet](https://www.nuget.org/) - The .NET package manager
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+
+## Parser Library
+
+* [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+* [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+* [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+* [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 ## PDF
 
@@ -1030,13 +1037,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 * [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) - OzCode is a Visual Studio Extension which cuts down on debugging time and increases productivity by detecting and isolating bugs, making them easy to fix. **[$]**
- * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
- * [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
- * [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI (formerly [Swagger API](https://swagger.io/docs/specification/about/)) web service with [NSwag](https://github.com/RSuter/NSwag).
 * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) - A set of extensions to Visual Studio Professional (and above) which improves developer productivity.
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [Resharper](https://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio **[$]**
+* [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
 * [SideWaffle](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
+* [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
+* [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI (formerly [Swagger API](https://swagger.io/docs/specification/about/)) web service with [NSwag](https://github.com/RSuter/NSwag).
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
 * [VsVIM](https://github.com/jaredpar/VsVim) - VIM in Visual Studio
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2013) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
@@ -1084,13 +1091,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 * [WPF](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
-
-## Parser Library
-
-* [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
-* [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
-* [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
-* [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 # Other Lists
 
